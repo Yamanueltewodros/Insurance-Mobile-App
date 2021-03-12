@@ -1,4 +1,4 @@
-# insurance
+# Insurance
 
 A new Flutter project.
 
